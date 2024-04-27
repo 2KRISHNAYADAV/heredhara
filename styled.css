@@ -20,7 +20,7 @@ background: linear-gradient(30deg, #c7c7ff 0%, #cacaca 50%, #dddcde 100%);
 
 .header {
 
-opacity: 0.7;
+opacity: 1.7;
 text-align: center;
 border-radius: 3vh;
 font-family: "Times New Roman", Times, serif;
@@ -96,11 +96,12 @@ font-family: "Times New Roman", Times, serif;
     color: #b64343;
 }
 .h121h{
-    color: #5a3737;
-    margin-left: 29vh;
+    text-align: center;
+    color: #151516ba;
+    
     font-size: 12px;
     font-family: "Lucida Console", "Courier New", monospace;
-    margin-top: 7vh;
-    margin-right: 2vh;
+    /* margin-top: 7vh;
+    margin-right: 2vh; */
 }
 
