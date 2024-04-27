@@ -1,13 +1,13 @@
-
 body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
+    background-color: rgb(67, 66, 66);
 }
 
 header {
-    background-color: #007bff;
-    color: #fff;
+    background-color: #2d8df49c;
+    color: #f2efef;
     padding: 20px;
     text-align: center;
 }
@@ -16,13 +16,8 @@ header {
 .qr-code img {
     max-width: 200px;
 }
- img:hover{
-    color: #0372e9;
-}
 
-h1 {
-    margin: 0;
-}
+
 
 main {
     padding: 20px;
@@ -40,13 +35,7 @@ label {
     font-weight: bold;
 }
 
-input {
-    width: 100%;
-    padding: 8px;
-    border: 1px solid #ccc;
-    border-radius: 4px;
-    box-sizing: border-box;
-}
+
 
 button {
     padding: 10px 20px;
@@ -62,8 +51,9 @@ button:hover {
 }
 
 footer {
-    background-color: #f0f0f0;
-    padding: 2vh;
- 
+    margin-top: 23vh;
+    background-color: #737373;
+    padding: 1vh;
+
     text-align: center;
 }
