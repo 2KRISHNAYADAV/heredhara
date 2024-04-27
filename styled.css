@@ -19,22 +19,14 @@ background: linear-gradient(30deg, #c7c7ff 0%, #cacaca 50%, #dddcde 100%);
 
 
 .header {
-   
-    -webkit-box-shadow: -16px -4.5px 3px 12.5px #ada0a0;
--moz-box-shadow: -16px -4.5px 3px 12.5px #959992;
-box-shadow: -16px -4.5px 3px 12.5px #90c7f190;
+
 opacity: 0.7;
 text-align: center;
 border-radius: 3vh;
 font-family: "Times New Roman", Times, serif;
 }
 
-.logo img {
-    width: 50px; 
-    height: 50px; 
-    
-    
-}
+
 
 .logo h5 {
     margin-top: 0px;
