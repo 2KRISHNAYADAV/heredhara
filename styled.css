@@ -26,17 +26,26 @@ border-radius: 3vh;
 font-family: "Times New Roman", Times, serif;
 }
 
+.header h5{
+    font-size: 2em;
+    color: #d9534f;
+    border-bottom: 2px solid #d9534f;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
 
 
 .logo h5 {
     margin-top: 0px;
-    color: #f7f1f1;
-    
+    color: #f3f2f2;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
    
 }
 
 .navbar {
     margin-top: 1px;
+    font-size: 1em;
  
 }
 
@@ -79,12 +88,18 @@ font-family: "Times New Roman", Times, serif;
     margin-bottom: 10px;
     color: #807979;
 }
-
+article h1{
+    font-size: 2em;
+    color: #d9534f;
+    border-bottom: 2px solid #d9534f;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
 .article h5 {
-    font-size: 20px;
+    font-size: 2em;
     margin-top: 15px;
     margin-bottom: 8px;
-    color: #4b4c4d;
+    color: #3b3d3e;
 }
 .article h2{
     margin-top: 5vh;
